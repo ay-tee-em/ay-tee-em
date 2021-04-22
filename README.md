@@ -1,5 +1,5 @@
 ### Hiya!
-I go by most of my social media as Aliana. A computer science student with a passion for coding, I enjoy learning something new and hope to put my learning into action, even if it may be the smallest thing in the world. When I'm not about smashing my keyboard, whether that be writing stories or code, I can be found doodling in my book. 
+I go by most of my social media as ay-tee-em. A computer science student with a passion for coding, I enjoy learning something new and hope to put my learning into action, even if it may be the smallest thing in the world. When I'm not about smashing my keyboard, whether that be writing stories or code, I can be found doodling in my book. 
 
 Some of my current skills are: HTML, CSS, Python and Java, with SQL and JavaScript a 'learning in progress'. 
 
